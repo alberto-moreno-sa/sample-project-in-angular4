@@ -1,4 +1,4 @@
-# SampleProjectInAngular4
+# Sample Project in Angular4
 
 ## Development server
 
